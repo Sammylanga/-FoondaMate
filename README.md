@@ -1,6 +1,6 @@
 # -FoondaMate
 
-# install all needed modules 
+# Install all needed modules 
 1.matplotlib
   use below commands to install it
   pip install matplotlib
@@ -8,7 +8,7 @@
   use below commands to install it
   pip install requests
   
- # TO run the programme 
+ # To run the programme 
   use commands 
   python CLI.py
   
